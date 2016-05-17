@@ -1,0 +1,768 @@
+{
+  "settings": {
+    "currentPage": "page4.html",
+    "versionFirst": "2.9.7",
+    "versionPublish": "2.9.7",
+    "version": "1.9.10",
+    "name": "Google Drive",
+    "path": "file:///C:/Users/Diede/Google%20Drive",
+    "favicon": "",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Diede/Desktop/PUBLI%20NL",
+    "publishGDriveLocation": "",
+    "publishGDrivePath": "PORTFOLIO CORRECT"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Mobirise Mobile Website Builder",
+        "meta_descr": "Free Responsive Website Maker. Create awesome mobile-first websites. Easy and fast - No coding!",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "32px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#4c6972"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-10",
+          "_params": {
+            "color": "#4c6972",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true
+            }
+          },
+          "brand": "MOBIRISE",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" href=\"http://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"index.html\">THUIS<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"page1.html\">WIE BEN IK?</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"page2.html\">WAT IK MAAK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"page3.html\">OM MIJ TE BEREIKEN</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" href=\"http://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header4-26",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-mg-0096-5472x3648-36.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "Diede Coppens",
+          "text": "Student&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">WIE BEN IK ?&nbsp;</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">WAT IK MAAK</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">OM MIJ TE BEREIKEN</a>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "MY STORY",
+        "meta_descr": "Wie ben ik, wat doe ik in het dagelijkse leven, ...",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "36px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#4c6972"
+            },
+            ".mbr-navbar__section": {},
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-4",
+          "_params": {
+            "color": "#4c6972",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true
+            }
+          },
+          "brand": "MOBIRISE",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" href=\"http://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"index.html\">THUIS<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"page1.html\">WIE BEN IK?</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"page2.html\">WAT IK MAAK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"page3.html\">OM MIJ TE BEREIKEN</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" href=\"http://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "text-align": "right",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "32px",
+              "color": "#000000"
+            },
+            "P": {
+              "text-align": "right",
+              "font-size": "15px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header4-27",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20160308-175552-1836x3264-72.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "Wie ben ik?<br>",
+          "text": "Ik, ik ben Diede. Ik ben een 21 jaar oude studente die in het hartje van Gent zich verscholen houdt in een atelier. Ik zit ondertussen in mijn derde jaar van 'mijn' Vrije Beeldende Kunsten, specialisatie Keramiek en Glas, hoewel dit vooral keramiek is. Ik ben een fantastische voorstander van het materiaal, het is een natuurlijke manier en een natuurlijk materiaal om gevoelens of emoties uit te drukken en te proberen om weer te geven wat ik wil. <br>Achter de draaischijf kruipen laadt me op, creëert een oase aan rust en genot. Het maken, het opbouwen van iets uit het niets is een heel leuk en ontzettend interessant proces dat tijd, concentratie en techniek vraagt. Maar het resultaat van dit alles is een overtreffend product van het leren, van onderzoek. <br><br>En dat op zich is  een ontzettend dankbaar iets.&nbsp;<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "ARTWORKS",
+        "meta_descr": "Voornamelijk werken van zowel glas als keramiek doorheen verschillende academiejaren. ",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "32px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#4c6972"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-7",
+          "_params": {
+            "color": "#4c6972",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true
+            }
+          },
+          "brand": "MOBIRISE",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" href=\"http://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"index.html\">THUIS<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"page1.html\">WIE BEN IK?</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"page2.html\">WAT IK MAAK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"page3.html\">OM MIJ TE BEREIKEN</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" href=\"http://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "font-family": "'Oxygen', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "32px !important"
+            }
+          },
+          "_anchor": "header3-14",
+          "title": "Artworks",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
+        },
+        {
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oxygen', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "72px !important",
+              "color": "#ffffff",
+              "text-align": "center"
+            },
+            "P": {
+              "font-family": "'Oxygen', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/imag05452592x1552-123-1-2000x1198-66.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "2013",
+                "showText": false,
+                "text": "blablabla",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mg-12365616x3744-1872000x1333-166-1-800x533-35.jpg",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "2014",
+                "showText": false,
+                "text": "",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/-mg-0096-5472x3648-36.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "showTitle": true,
+                "title": "2015",
+                "showText": false,
+                "text": "blablabla",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#ffffff",
+            "showBullets": true
+          },
+          "_anchor": "slider-20",
+          "articleLayout": false
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "CONTACT",
+        "meta_descr": "Vragen ? Email\nInspiratie -> Pinterest\nWie ben ik  -> Facebook / Instagram (?)",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "32px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#4c6972"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-10",
+          "_params": {
+            "color": "#4c6972",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "active": true
+            }
+          },
+          "brand": "MOBIRISE",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" href=\"http://mobirise.com\"></a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"index.html\">THUIS<br></a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"page1.html\">WIE BEN IK?</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"page2.html\">WAT IK MAAK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" href=\"page3.html\">OM MIJ TE BEREIKEN</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" href=\"http://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_name": "header2",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "color": "#252525 !important"
+            },
+            "H1": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif !important",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_anchor": "header2-11",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-mg-0065-5472x3648-78.jpg",
+            "bgColor": "#a38f84",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "left",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "Diede Coppens",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\">MY STORY</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://mobirise.com\">ARTWORKS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://mobirise.com\">CONTACTS</a>"
+        },
+        {
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#efefef"
+            }
+          },
+          "_anchor": "social-buttons2-24",
+          "_params": {
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg3.jpg",
+            "bgColor": "#2d2f30",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW ME",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/diedecoppens/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a>"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "ARTWORKS - 2013",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_name": "header3",
+          "_anchor": "header3-20",
+          "title": "KERAMIEK &amp; GLAS",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "2013"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-26",
+          "text": "Ik had, wanneer ik aan de opleiding begonnen ben, helemaal nog geen idee waarmee ik me precies wou bezig houden. Zeker in het eerste jaar was het vooral uitzoeken welke richting ik uitwou, daarom heb ik geen uitgewerkte eindresultaten die resultaat zijt van een uitgebreid onderzoek.&nbsp;"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/555832-10201229946767029-1063284114-n575x960-167-575x960-66-575x960-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/555832-10201229946767029-1063284114-n575x960-167-575x960-66.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/gezandstraald-blad788x557-195-788x557-11-788x557-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gezandstraald-blad788x557-195-788x557-11.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/1512721-10201464380387723-336753338-n575x960-161575x960-163-575x960-32-575x960-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1512721-10201464380387723-336753338-n575x960-161575x960-163-575x960-32.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag03862592x1552-1632000x1198-187-800x479-80-800x479-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag03862592x1552-1632000x1198-187-800x479-80.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/borden-fb539x960-122539x960-149-539x960-58-539x960-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/borden-fb539x960-122539x960-149-539x960-58.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag02771552x2592-151-1552x2592-27-1552x2592-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag02771552x2592-151-1552x2592-27.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag06522348x1552-1572000x1322-171-800x529-41-800x529-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag06522348x1552-1572000x1322-171-800x529-41.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag03912592x1552-1392000x1198-133-800x479-89-800x479-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag03912592x1552-1392000x1198-133-800x479-89.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag03442592x1552-125-2000x1198-33-2000x1198-70.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag03442592x1552-125-2000x1198-33.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag00072592x1552-1962000x1198-122-800x479-62-800x479-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag00072592x1552-1962000x1198-122-800x479-62.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag03701552x2592-195-1552x2592-84-1552x2592-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag03701552x2592-195-1552x2592-84.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag05572592x1552-1492000x1198-131-800x479-6-800x479-7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag05572592x1552-1492000x1198-131-800x479-6.jpg",
+                "active": true
+              }
+            ],
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery2-25",
+          "articleLayout": true
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "title": "ARTWORKS - 2013",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_name": "header3",
+          "_anchor": "header3-23",
+          "title": "KERAMIEK &amp; GLAS&nbsp;",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "2014"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag05402592x1552-1802000x1198-183-800x479-87-800x479-84.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag05402592x1552-1802000x1198-183-800x479-87.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag05481552x2592-1641552x2592-152-800x1336-88-800x1336-62.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag05481552x2592-1641552x2592-152-800x1336-88.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag05452592x1552-1232000x1198-199-800x479-18-800x479-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag05452592x1552-1232000x1198-199-800x479-18.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag05461552x2592-1121552x2592-133-800x1336-1-800x1336-2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag05461552x2592-1121552x2592-133-800x1336-1.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag06501552x1997-1671552x1997-197-800x1029-21-800x1029-53.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag06501552x1997-1671552x1997-197-800x1029-21.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag05491552x2592-1131552x2592-139-800x1336-28-800x1336-35.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag05491552x2592-1131552x2592-139-800x1336-28.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/img-61555184x3456-1682000x1333-196-800x533-29-800x533-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-61555184x3456-1682000x1333-196-800x533-29.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-11965616x3744-111-2000x1333-87-2000x1333-30.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-11965616x3744-111-2000x1333-87.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12193744x5616-1522000x3000-190-800x1200-96-800x1200-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-12193744x5616-1522000x3000-190-800x1200-96.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mr-en-mrs575x960-131-575x960-44-575x960-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mr-en-mrs575x960-131-575x960-44.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag11131552x2592-160-1552x2592-25-1552x2592-59.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag11131552x2592-160-1552x2592-25.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/imag11181552x2592-1601552x2592-149-800x1336-32-800x1336-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imag11181552x2592-1601552x2592-149-800x1336-32.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12025616x3744-122-2000x1333-30-2000x1333-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-12025616x3744-122-2000x1333-30.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12125616x3744-176-2000x1333-69-2000x1333-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-12125616x3744-176-2000x1333-69.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12365616x3744-187-2000x1333-92-2000x1333-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-12365616x3744-187-2000x1333-92.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12455616x3744-1242000x1333-180-800x533-56-800x533-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-12455616x3744-1242000x1333-180-800x533-56.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-12615616x3744-1832000x1333-171-800x533-84-800x533-92.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-12615616x3744-1832000x1333-171-800x533-84.jpg",
+                "active": true
+              }
+            ],
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery2-29",
+          "articleLayout": true
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "title": "ARTWORKS - 2013",
+        "meta_descr": ""
+      },
+      "components": [
+        {
+          "_name": "header3",
+          "_anchor": "header3-24",
+          "title": "KERAMIEK &amp; GLAS&nbsp;",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "2015"
+        },
+        {
+          "_name": "content1",
+          "_anchor": "content1-30",
+          "text": "<p>In 2015 - 2016, mijn derde jaar is pas echt wanneer ik mijn draai gevonde heb. Ik was gestart met het maken van borden waar ik dan door middel van zeefdruk patronen op ging plaatsen. Dit was uiteindelijk toch niet waar ik echt uit leerde, het moest iets meer zijn. Dan ben ik terechtgekomen bij het onderzoeken naar vlakken die zich tegenover de vorm van je werk verhouden. De relatie enerzijds tussen een perfect ronde binnenkant tegenover een ruwe veelhoek langs de buitenkant.&nbsp;</p>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/12179042-10205321083842899-255065087-n539x960-167-539x960-78-539x960-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12179042-10205321083842899-255065087-n539x960-167-539x960-78.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/12179070-10205321089843049-1173717098-n960x540-122-960x540-22-960x540-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12179070-10205321089843049-1173717098-n960x540-122-960x540-22.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/12177934-10205321085922951-800286772-n539x960-124539x960-180-539x960-63-539x960-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12177934-10205321085922951-800286772-n539x960-124539x960-180-539x960-63.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/12179617-10205321084242909-646415957-n960x539-187-960x539-4-960x539-47.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12179617-10205321084242909-646415957-n960x539-187-960x539-4.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0013-2133x2834-2-2000x2657-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0013-2133x2834-2.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0072-3648x5472-18-2000x3000-17.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0072-3648x5472-18.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0065-5472x3648-64-2000x1333-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0065-5472x3648-64.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0047-5472x3648-96-2000x1333-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0047-5472x3648-96.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0082-5472x3648-27-2000x1333-12.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0082-5472x3648-27.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0088-5472x3648-59-2000x1333-77.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0088-5472x3648-59.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/13230921-10206545886902210-2041778415-o-666x1184-99-666x1184-87.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13230921-10206545886902210-2041778415-o-666x1184-99.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/mg-0088-5472x3648-59-2000x1333-77.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-mg-0088-5472x3648-59.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/13223599-10206545887022213-139826602-o-666x1184-35-666x1184-66.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13223599-10206545887022213-139826602-o-666x1184-35.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/13223616-10206545886942211-961136851-o-1184x666-24-1184x666-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13223616-10206545886942211-961136851-o-1184x666-24.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/13242181-10206545887502225-1706412753-o-1184x666-88-1184x666-85.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13242181-10206545887502225-1706412753-o-1184x666-88.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/13242081-10206545887102215-1999908926-o-1184x666-42-1184x666-10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13242081-10206545887102215-1999908926-o-1184x666-42.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/13224078-10206545886982212-54052644-o-1184x666-18-1184x666-20.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13224078-10206545886982212-54052644-o-1184x666-18.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/13234706-10206545886462199-1875442721-o-1184x666-16-1184x666-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13234706-10206545886462199-1875442721-o-1184x666-16.jpg",
+                "active": false
+              }
+            ],
+            "fullWidth": false,
+            "noGutter": true
+          },
+          "_anchor": "gallery2-31",
+          "articleLayout": true
+        }
+      ]
+    }
+  }
+}

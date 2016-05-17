@@ -1,0 +1,98 @@
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+#menu-10 .mbr-brand__name {
+  font-size: 32px;
+}
+#menu-10.mbr-navbar--stuck .mbr-navbar__section {
+  background: #4c6972;
+}
+#menu-10 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-26 H1 {
+  text-align: left;
+}
+#header4-26 P {
+  text-align: left;
+}
+
+
+
+
+#menu-4 .mbr-brand__name {
+  font-size: 36px;
+  font-family: 'Oxygen', sans-serif;
+}
+#menu-4.mbr-navbar--stuck .mbr-navbar__section {
+  background: #4c6972;
+}
+#menu-4 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#menu-4 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-27 H1 {
+  text-align: right;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 32px;
+  color: #000000;
+}
+#header4-27 P {
+  text-align: right;
+  font-size: 15px;
+  font-family: 'Oxygen', sans-serif;
+  color: #000000;
+}
+
+
+
+
+#menu-7 .mbr-brand__name {
+  font-size: 32px;
+}
+#menu-7.mbr-navbar--stuck .mbr-navbar__section {
+  background: #4c6972;
+}
+#menu-7 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header3-14 H3 {
+  font-family: 'Oxygen', sans-serif !important;
+  font-size: 32px !important;
+}
+#slider-20 H1 {
+  font-family: 'Oxygen', sans-serif !important;
+  font-size: 72px !important;
+  color: #ffffff;
+  text-align: center;
+}
+#slider-20 P {
+  font-family: 'Oxygen', sans-serif !important;
+}
+#slider-20 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+
+#menu-10 .mbr-brand__name {
+  font-size: 32px;
+}
+#menu-10.mbr-navbar--stuck .mbr-navbar__section {
+  background: #4c6972;
+}
+#menu-10 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header2-11 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#header2-11 P {
+  color: #252525 !important;
+}
+#header2-11 H1 {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif !important;
+}
+#social-buttons2-24 .mbr-header__text {
+  color: #efefef;
+}
